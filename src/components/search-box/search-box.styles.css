@@ -1,0 +1,16 @@
+.search-box {
+  --webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 25%;
+  font-size: medium;
+  line-height: 30px;
+  margin-bottom: 30px;
+  border-radius: 6px;
+}
+
+.monsters-search-box {
+  border: 2px solid yellowgreen;
+  box-shadow: 5px 5px 5px crimson;
+}
