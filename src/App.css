@@ -8,8 +8,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(
     to left,
-    rgba(7, 27, 82, 1) 0%,
-    rgba(0, 128, 128, 1) 100%
+    rgb(243, 111, 4) 0%,
+    rgb(223, 47, 164) 100%
   );
   text-align: center;
+}
+
+.app-title {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 72px;
+  font-family: 'Creepster';
+  text-shadow: 5px 5px 2px rgba(255, 239, 13, 0.692);
+  color: rgba(255, 9, 9, 0.767);
 }
