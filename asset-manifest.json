@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Monster-Roll/static/css/main.1759cd86.css",
+    "main.js": "/Monster-Roll/static/js/main.0d40935a.js",
+    "index.html": "/Monster-Roll/index.html",
+    "main.1759cd86.css.map": "/Monster-Roll/static/css/main.1759cd86.css.map",
+    "main.0d40935a.js.map": "/Monster-Roll/static/js/main.0d40935a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1759cd86.css",
+    "static/js/main.0d40935a.js"
+  ]
+}
